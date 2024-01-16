@@ -72,5 +72,5 @@ else if(dineroRoberto >= 1.8 && dineroRoberto < 2.9 ) {
 else if(dineroRoberto >= 2.9) {
     alert("Roberto, te puedes comprar el helado de confites y el de pote de 1/4KG");
 } else {
-    alert("Roberto, Lo siento, no es suficiente dinero para poder comprar un helado!!");
+    alert("Rooberto, Lo siento, no es suficiente dinero para poder comprar un helado!!");
 }
