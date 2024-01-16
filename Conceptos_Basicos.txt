@@ -1,0 +1,13 @@
+¿Qué es un lenguaje de programación?
+Es una herramienta que nos permita escribir instrucciones al ordenador a través de
+código, código que está estructurado dependiendo el lenguaje y su sintaxis.
+
+- Es un lenguaje Interpretado: Es línea por línea Haciendolo En tiempo real
+
+Case Sensitive: Quiere decir que en las variables sí tiene afecto cuándo ponemos mayúsculas y Minusculas
+
+Tipado Débil: Nos permite cambiar el valor de la variable haciendose flexible
+
+¿Qué es un lenguaje dinámico?: Nos permite asignar variables sin especificar el tipo de dato.
+
+Vamos aprender ecmascript

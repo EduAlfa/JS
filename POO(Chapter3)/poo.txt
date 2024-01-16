@@ -1,0 +1,21 @@
+- ¿Qué es la programación orientada a objetos?
+Es un paradigma actualizando la forma que programamos mejorando y haciendo objetos cómo lo hacemos en la vida real
+
+Programación secuencial
+programación estructurada
+Programación orientada a objetos
+Programación Defensiva
+
+crear soluciones de una mejor forma
+
+** Abstracción **
+Intentar reducir el objeto tratando de ser un poco más general reducirlo lo más que podamos sin mucha complejidad en propiedades y métodos
+
+** Modularidad ** 
+Tiene que ver en poder resolver un problema o proyecto grande utilizando pequeños pasos, haciendo etapas chiquitas hasta acabarlo todo para que se menos complicado
+
+** encapsulamiento **
+Es literal encapsular los datos que hay dentro del objeto para que no sean tan accesible al usuario haciendolos privados
+
+** polimorfismo **
+ver cómo un objeto se comporta de diferente manera utilizando los mismos métodos 
